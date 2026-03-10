@@ -1,6 +1,11 @@
 # Tex Renderers
 
-Allows inputting an equation in $\TeX$ format using [MathJax](https://www.mathjax.org/) or [KaTeX](https://katex.org/)
+Allows inputting an equation in TeX syntax and render using [MathJax](https://www.mathjax.org/) or [KaTeX](https://katex.org/)
+
+## Pages
+
+- [Math Renderer | MathJax](https://beatrix-chan.github.io/util/tex-renderer/mathjax-editor.html)
+- [Math Renderer | KaTeX](https://beatrix-chan.github.io/util/tex-renderer/katex-editor.html)
 
 ## Technology
 

@@ -4,8 +4,8 @@ Allows inputting an equation in TeX syntax and render using [MathJax](https://ww
 
 ## Pages
 
-- [Math Renderer | MathJax](https://beatrix-chan.github.io/util/tex-renderer/mathjax-editor.html)
-- [Math Renderer | KaTeX](https://beatrix-chan.github.io/util/tex-renderer/katex-editor.html)
+- [Math Renderer &vert; MathJax](https://beatrix-chan.github.io/util/tex-renderer/mathjax-editor.html)
+- [Math Renderer &vert; KaTeX](https://beatrix-chan.github.io/util/tex-renderer/katex-editor.html)
 
 ## Technology
 
